@@ -1,6 +1,6 @@
-package javc1;
+package java_prac;
 
-public class prog6 {
+public class exp1 {
     public static void main(String[] args) {
         String s1 = "raghav";
         int num = 25;
@@ -10,4 +10,7 @@ public class prog6 {
 
         System.out.printf("hello : %S   marks : %d  good %s",s1, num, s2);
     }
-}
+    }
+
+
+
